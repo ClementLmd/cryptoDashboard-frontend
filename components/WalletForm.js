@@ -195,7 +195,7 @@ function WalletForm() {
         style={walletAdded}
         onClick={handleSubmit}
       >
-        Soumettre
+        Submit
       </button>
     </form>
   );

@@ -13,6 +13,8 @@ const nextConfig = {
       "images.laprovence.com",
       "media.sudouest.fr",
       "fyooyzbm.filerobot.com",
+      "www.amf-france.org",
+      "static.latribune.fr",
     ],
   },
 };
